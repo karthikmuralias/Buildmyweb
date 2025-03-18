@@ -1,0 +1,12 @@
+#f{
+    border: 2px solid rgb(220, 6, 6);
+    width: 650px;
+  border-radius: 10px 10px 10px 10px ;
+  padding: 1%;
+}
+#s{
+    border: 2px solid rgb(219, 11, 11);
+    width: 650px;
+  border-radius: 35px 10px 35px 10px    ;
+  padding: 1%;
+}
