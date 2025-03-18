@@ -1,0 +1,16 @@
+.item{
+    height: 50px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+   
+.container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 800px;
+    
+}
